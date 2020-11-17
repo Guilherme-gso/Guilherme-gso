@@ -1,4 +1,4 @@
-# 🖐 About me 
+# 🖐 Welcome!
 :sparkles: My name is Guilherme Gonçalves, I'm 17 years old and I'm a full stack developer. Currently working with web development, but I'm always looking for new experiences and achievements within this incredible world of technology. :sparkles:
 
 # 🌈  Skills
