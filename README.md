@@ -7,6 +7,7 @@
 - [x] Node JS <br />
 - [x] SQL <br />
 - [x] Next JS <br />
+- [x] React JS (CRA) <br />
 - [x] React Native
 
 <h3>🥳 Goals</h3>
