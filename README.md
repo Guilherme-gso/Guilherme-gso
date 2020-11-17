@@ -2,10 +2,11 @@
 :sparkles: My name is Guilherme Gonçalves, I'm 17 years old and I'm a full stack developer. Currently working with web development, but I'm always looking for new experiences and achievements within this incredible world of technology. :sparkles:
 
 <h3>🌈 Skills</h3>
-- [x] Typescript
-- [x] Node JS
-- [x] SQL
-- [x] Next JS
+
+- [x] Typescript <br />
+- [x] Node JS <br />
+- [x] SQL <br />
+- [x] Next JS <br />
 - [x] React Native
 
 <h3>🥳 Goals</h3>
