@@ -1,5 +1,5 @@
 # 🖐 Welcome!
-:sparkles: My name is Guilherme Gonçalves, I'm 18 years old and I'm a full stack developer. Currently working with web development, but I'm always looking for new experiences and achievements within this incredible world of technology. :sparkles:
+:sparkles: My name is Guilherme Oliveira, I'm 18 years old and I'm a full stack developer. Currently working with web development, but I'm always looking for new experiences and achievements within this incredible world of technology. :sparkles:
 
 <h3>🌈 Skills</h3>
 
